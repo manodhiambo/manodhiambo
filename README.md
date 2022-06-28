@@ -14,6 +14,6 @@ With the advancement in Technology, the brain that survives this developing worl
 <br><br><br>
 
 <img src="https://photos.google.com/photo/AF1QipMvSILhOIEmLciM4s7FgXS67A_IRiRt5Gw0dLo.jpg"
-width: 50%, height: 50%
+width: 50%, height: 50%>
 
 </p>
