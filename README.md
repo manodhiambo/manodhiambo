@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang='eng'>
-<body>
 ### Hi there �~_~Q~K
 <center><h1>WELCOME TO MY GITHUB, FEEL AT HOME</h1></center>
 
@@ -20,5 +17,3 @@ With the advancement in Technology, the brain that survives this developing worl
 style="width: 50%, height: 50%">
 
 </p>
-</body>
-</html>
