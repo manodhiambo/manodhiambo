@@ -16,10 +16,10 @@ With the advancement in Technology, the brain that survives this developing worl
 Don't forget to follow me in the following platforms:
 <ul>
 <li><a href="https://github.com/manodhiambo" style="color: red;"><img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png"></a></li>
-<li><a href="https://www.linkedin.com/in/kevin-odhiambo-784948220?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bt%2Fb6a3b%2FTRuyy9gsj4aIYQ%3D%3D" style="color:red;"><img src="https://images.app.goo.gl/EBXEjBsTyChxMQz28"></a></li>
-<li><a href="https://t.co/QaSYpAYr8D" style="color: red;"><img src="https://images.app.goo.gl/2iiteB7TQ3VX3pgn6"></a></li>
-<li><a href="manodhiambo@gmail.com"><img src="https://images.app.goo.gl/6JVMxR4scJFtoWNcA"></li>
-<li style="color: red;"><a href="@KEVINOD71550785"><img src="https://images.app.goo.gl/Kj2Bc1veNm3K87Xw9"></a></li>
+<li><a href="https://www.linkedin.com/in/kevin-odhiambo-784948220?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bt%2Fb6a3b%2FTRuyy9gsj4aIYQ%3D%3D"><img src="https://images.app.goo.gl/EBXEjBsTyChxMQz28.png"></a></li>
+<li><a href="https://t.co/QaSYpAYr8D"><img src="https://images.app.goo.gl/2iiteB7TQ3VX3pgn6.png"></a></li>
+<li><a href="manodhiambo@gmail.com"><img src="https://images.app.goo.gl/6JVMxR4scJFtoWNcA.png"></li>
+<li style="color: red;"><a href="@KEVINOD71550785"><img src="https://images.app.goo.gl/Kj2Bc1veNm3K87Xw9.png"></a></li>
 </ul>
 </p>
 </body>
