@@ -18,8 +18,8 @@ Don't forget to follow me in the following platforms:
 <li><a href="https://github.com/manodhiambo" style="color: red;"><img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png"></a></li>
 <li><a href="https://www.linkedin.com/in/kevin-odhiambo-784948220?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bt%2Fb6a3b%2FTRuyy9gsj4aIYQ%3D%3D"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"alt="Linkedin"></a></li>
 <li><a href="https://t.co/QaSYpAYr8D"><img src="https://s.w.org/images/backgrounds/wordpress-bg-medblue.png" alt="Wordpress"></a></li>
-<li><a href="mailto:manodhiambo@gmail.com"><img src="https://www.nidirect.gov.uk/articles/email-internet-and-social-media" alt="Email">
-<li style="color: red;"><a href="@KEVINOD71550785"><img src="https://images.app.goo.gl/Kj2Bc1veNm3K87Xw9.png" alt="Twitter"></a></li>
+<li><a href="mailto:manodhiambo@gmail.com"><img src="https://images.app.goo.gl/qY27GckXmfkAf7gB9.png" alt="Email">
+<li><a href="http://twitter.com/@KEVINOD71550785"><img src="https://images.app.goo.gl/4wPsm6Jg9hfyvV4y5.png" alt="Twitter"></a></li>
 </ul>
 </p>
 </body>
