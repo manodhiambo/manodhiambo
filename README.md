@@ -8,7 +8,7 @@
 
 <p>
 <b>Hellow World 🌍 I am Kevin Owino Odhiambo 💖 🤝</b>
-A student at Holberton-alx, studying software engineering-A Back-End Programmer
+A student at Holberton-alx, studying software engineering-A Full Stack Engineer 
 
 <b>I am a passionate programmer, who is always in a learning mode.
 With the advancement in Technology, the brain that survives this developing world is one that is in the position to adapt to the prevailing changes. And hence the need to be ready to learn. I am that person who is always curious about the updates on the new technology, being a contributer to the changes.</b>
