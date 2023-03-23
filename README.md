@@ -7,8 +7,7 @@
 <a href="https://lh3.googleusercontent.com/MaH_wnp36CaOA2HUKl74tLAY04ebaIUW7yxF4rEE2rBj7_NRYfaCHkq9T208rhUnudOwu1Bx9o8QNi1QdHK9ETAPrnYSpK_MM1nHh9sx5Opy_DWe5wNRBfuLvBqEsxSvV7Y0tg-w=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/MaH_wnp36CaOA2HUKl74tLAY04ebaIUW7yxF4rEE2rBj7_NRYfaCHkq9T208rhUnudOwu1Bx9o8QNi1QdHK9ETAPrnYSpK_MM1nHh9sx5Opy_DWe5wNRBfuLvBqEsxSvV7Y0tg-w=w600-h315-p-k" /> </a>
 
 <p>
-<b>Hellow World 🌍 I am Kevin Owino Odhiambo 💖 🤝</b>
-A graduate student from Holberton-alx, studying software engineering-A Full Stack Engineer 
+<b>Hellow World 🌍💖 🤝</b>
 
 <b>I am a passionate programmer, who is always in a learning mode.
 With the advancement in Technology, the brain that survives this developing world is one that is in the position to adapt to the prevailing changes. And hence the need to be ready to learn. I am that person who is always curious about the updates on the new technology, being a contributer to the changes.</b>
