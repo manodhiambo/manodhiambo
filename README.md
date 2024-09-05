@@ -3,54 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<style>
-.container {
-text-align: center;
-padding: 100px 20px;
-background-color: rgba(0, 0, 0, 0.7);
-margin: 0 auto;
-}
-
-h1{
-font-size: 3em;
- margin-bottom: 20px;
-}
-
-p{
-font-size: 1.2em;
-margin-bottom: 20px;
-}
-
-.skills {
-margin: 20px 0;
-}
-
-.skills span {
-background-color: #ff5733;
-padding: 10px;
-margin: 5px;
-border-radius: 5px;
-display: inline-block;
-}
-
-.social-links a {
-color: #ffcc00;
-text-decoration: none;
-font-size: 1.2em;
-margin: 0 10px;
-}
-
-.social-links a:hover {
-color: #fff;
-}
-
-.contact {
-margin-top: 50px;
-font-size: 1em;
-}
-
-</style>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
 
