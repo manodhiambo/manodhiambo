@@ -1,25 +1,104 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Kevin Owino Odhiambo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url('https://images.unsplash.com/photo-1517430816045-df4b7de66fb1?ixid=MnwzNjUyOXwwfDF8c2VhcmNofDEyfHxjb2RpbmclMkNob29kaWV8ZW58MHx8fHwxNjk1OTYyNzQy&ixlib=rb-1.2.1&q=80&w=1080');
+
+            background-size: cover;
+            background-position: center;
+            color: #fff;
+        }
+
+        .container {
+            text-align: center;
+            padding: 100px 20px;
+            background-color: rgba(0, 0, 0, 0.7); /* Transparent black background for text readability */
+            margin: 0 auto;
+        }
+
+        h1 {
+            font-size: 3em;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 1.2em;
+            margin-bottom: 20px;
+        }
+
+        .skills {
+            margin: 20px 0;
+        }
+
+        .skills span {
+            background-color: #ff5733;
+            padding: 10px;
+            margin: 5px;
+            border-radius: 5px;
+            display: inline-block;
+        }
+
+        .social-links {
+            margin-top: 30px;
+        }
+
+        .social-links a {
+            color: #ffcc00;
+            text-decoration: none;
+            font-size: 1.2em;
+            margin: 0 10px;
+        }
+
+        .social-links a:hover {
+            color: #fff;
+        }
+
+        .contact {
+            margin-top: 50px;
+            font-size: 1em;
+        }
+    </style>
 </head>
-<body style="backgroud-color:green;">
-<center><h1 style="color: grey;">WELCOME TO MY GITHUB, FEEL AT HOME</h1></center>
-<a href="https://lh3.googleusercontent.com/MaH_wnp36CaOA2HUKl74tLAY04ebaIUW7yxF4rEE2rBj7_NRYfaCHkq9T208rhUnudOwu1Bx9o8QNi1QdHK9ETAPrnYSpK_MM1nHh9sx5Opy_DWe5wNRBfuLvBqEsxSvV7Y0tg-w=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/MaH_wnp36CaOA2HUKl74tLAY04ebaIUW7yxF4rEE2rBj7_NRYfaCHkq9T208rhUnudOwu1Bx9o8QNi1QdHK9ETAPrnYSpK_MM1nHh9sx5Opy_DWe5wNRBfuLvBqEsxSvV7Y0tg-w=w600-h315-p-k" /> </a>
+<body>
 
-<p>
-<b>Hellow World 🌍💖 🤝</b>
+    <div class="container">
+        <h1>Welcome to Kevin Owino Odhiambo's Profile</h1>
+        <p>I specialize in a wide range of programming languages and technologies:</p>
 
-<b>I am a passionate programmer, who is always in a learning mode.
-With the advancement in Technology, the brain that survives this developing world is one that is in the position to adapt to the prevailing changes. And hence the need to be ready to learn. I am that person who is always curious about the updates on the new technology, being a contributer to the changes.</b>
-<br><br>
-Don't forget to follow me in the following platforms:
-<ul>
-<li><a href="https://github.com/manodhiambo" style="color: red;"><img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png"></a></li>
-<li><a href="https://www.linkedin.com/in/kevin-odhiambo-784948220?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bt%2Fb6a3b%2FTRuyy9gsj4aIYQ%3D%3D"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"alt="Linkedin"></a></li>
-<li><a href="https://t.co/QaSYpAYr8D"><img src="https://s.w.org/images/backgrounds/wordpress-bg-medblue.png" alt="Wordpress"></a></li>
-<li><a href="mailto:manodhiambo@gmail.com"><img src="https://images.app.goo.gl/qY27GckXmfkAf7gB9.png" alt="Email">
-<li><a href="http://twitter.com/@KEVINOD71550785"><img src="https://images.app.goo.gl/4wPsm6Jg9hfyvV4y5.png" alt="Twitter"></a></li>
-</ul>
-</p>
+        <div class="skills">
+            <span>C</span>
+            <span>C++</span>
+            <span>Java</span>
+            <span>Python</span>
+            <span>HTML</span>
+            <span>CSS</span>
+            <span>JavaScript</span>
+            <span>ReactJS</span>
+            <span>MongoDB</span>
+            <span>MySQL</span>
+        </div>
+
+        <p>Feel free to connect with me through the following platforms:</p>
+
+        <div class="social-links">
+            <a href="https://www.linkedin.com/in/manodhiambo/" target="_blank">LinkedIn</a>
+            <a href="https://t.co/QaSYpAYr8D.com/" target="_blank">WordPress</a>
+            <a href="mailto:manodhiambo@gmail.com" target="_blank">Email</a>
+            <a href="https://twitter.com/your-twitter-handle" target="_blank">Twitter</a>
+        </div>
+
+        <div class="contact">
+            <p>Email me at: manodhiambo@gmail.com</p>
+        </div>
+    </div>
+
 </body>
 </html>
+
