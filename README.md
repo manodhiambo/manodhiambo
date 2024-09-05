@@ -28,10 +28,10 @@
   	<p>Feel free to connect with me through the following platforms:</p>
 
   	<div class="social-links">
-   	    <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">LinkedIn</a>
-   	    <a href="https://your-wordpress-site.com/" target="_blank">WordPress</a>
-   	    <a href="mailto:your-email@example.com" target="_blank">Email</a>
-   	    <a href="https://twitter.com/your-twitter-handle" target="_blank">Twitter</a>
+   	    <a href="https://www.linkedin.com/in/manodhiambo/" target="_blank">LinkedIn</a>
+   	    <a href="https://t.co/QaSYpAYr8D.com/" target="_blank">WordPress</a>
+   	    <a href="mailto:manodhiambo@gmail.com.com" target="_blank">Email</a>
+   	    <a href="https://@KEVINOD71550785" target="_blank">Twitter</a>
    	</div>
 
    	<div class="contact">
