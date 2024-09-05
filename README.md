@@ -91,12 +91,12 @@
    	 <a href="https://t.co/QaSYpAYr8D.com/" target="_blank">WordPress</a>
    	 <a href="mailto:manodhiambo@gmail.com" target="_blank">Email</a>
    	 <a href="https://twitter.com/@KEVINOD71550785" target="_blank">Twitter</a>
-        </div>
+ 	 </div>
 
-        <div class="contact">
-            <p>Email me at: manodhiambo@gmail.com.com</p>
-        </div>
-    </div>
+   	<div class="contact">
+  	<p>Email me at: manodhiambo@gmail.com.com</p>
+   	</div>
+</div>
 
 </body>
 </html>
