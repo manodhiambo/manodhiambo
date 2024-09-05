@@ -40,7 +40,7 @@
             padding: 10px;
             margin: 5px;
             border-radius: 5px;
-            display: inline-block;
+	    display: inline-block;
         }
 
         .social-links {
@@ -69,32 +69,31 @@
 
    <div class="container">
    	<h1>Welcome to My Profile</h1>
- 	<p>I specialize in a wide range of programming languages and technologies:</p>
+   	<p>I specialize in a wide range of programming languages and technologies:</p>
 
    <div class="skills">
-   	    <span>C</span>
-   	    <span>C++</span>
-   	    <span>Java</span>
-   	    <span>Python</span>
-   	    <span>HTML</span>
-   	    <span>CSS</span>
-  	    <span>JavaScript</span>
-   	    <span>ReactJS</span>
-   <span>MongoDB</span>
-  	    <span>MySQL</span>
+<span> C </span>
+<span> C++ </span>
+<span> Java </span>
+<span> Python </span>
+<span> HTML </span>
+<span> CSS </span>
+<span> JavaScript </span>
+<span> ReactJS </span>
+<span> MySQL </span>
    	</div>
 
    <p>Feel free to connect with me through the following platforms:</p>
 
-  	<div class="social-links">
+   	<div class="social-links">
   	 <a href="https://www.linkedin.com/in/manodhiambo/" target="_blank">LinkedIn</a>
-   	 <a href="https://t.co/QaSYpAYr8D.com/" target="_blank">WordPress</a>
-   	 <a href="mailto:manodhiambo@gmail.com" target="_blank">Email</a>
-   	 <a href="https://twitter.com/@KEVINOD71550785" target="_blank">Twitter</a>
- 	 </div>
+  	 <a href="https://t.co/QaSYpAYr8D.com/" target="_blank">WordPress</a>
+  	 <a href="mailto:manodhiambo@gmail.com" target="_blank">Email</a>
+  	 <a href="https://twitter.com/@KEVINOD71550785" target="_blank">Twitter</a>
+  	 </div>
 
    	<div class="contact">
-  	<p>Email me at: manodhiambo@gmail.com.com</p>
+ 	<p>Email me at: manodhiambo@gmail.com.com</p>
    	</div>
 </div>
 
