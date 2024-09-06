@@ -1,4 +1,8 @@
-<!-- README.md -->
+<!DOCTYPE html>
+<html lang="en">
+<body>
+
+<!-- iREADME.md -->
 <div style="text-align: center; padding: 100px 20px; background-color: rgba(0, 0, 0, 0.7); margin: 0 auto; color: white;">
 
 <h1 style="font-size: 3em; margin-bottom: 20px;">Welcome to My Profile</h1>
@@ -30,3 +34,5 @@
 <p>Email me at: manodhiambo@gmail.com</p>
 </div>
 </div>
+</body>
+</html>
