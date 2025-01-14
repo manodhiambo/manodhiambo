@@ -119,7 +119,7 @@ Contact Us
 Office Address: Siaya Town, Maria House, next to Siaya Bus Park
 Phone: +254703445756
 Email: manodhiambo@gmail.com
-Website: https://www.github.com/manodhiambo
+Website:https://manodhiambo.github.io/CodingHub/
 
 Coding Hub – Empowering You Through Technology. Let’s create, innovate, and secure your digital future together!
 </p>
