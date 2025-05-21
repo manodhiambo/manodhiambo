@@ -74,9 +74,9 @@ Our focus: **Excellence**, **Innovation**, and **Customer Satisfaction** in ever
 ## 📂 My Top Projects
 
 - 🔹 [ElimuConnect – Education App (Flutter + Firebase)](https://github.com/manodhiambo/elimuconnect)
-- 🔹 [PhoneFinder – Android Phone Tracking App](https://github.com/manodhiambo/phonefinder)
-- 🔹 [Coding Hub Website](https://manodhiambo.github.io/CodingHub)
-- 🔹 [SACCO Management System](https://github.com/manodhiambo/sacco-system)
+- 🔹 [PhoneFinder – Android Phone Tracking App](https://github.com/manodhiambo/findme)
+- 🔹 [L_MobileView_Mini](https://github.com/manodhiambo/l_mobilesales_mini)
+- 🔹 [L-salesView-Mini](https://github.com/manodhiambo/l-salesview-mini)
 - 🔹 [School Management Desktop App (JavaFX + MySQL)](https://github.com/manodhiambo/school-system)
 
 ---
