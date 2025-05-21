@@ -1,155 +1,103 @@
-<!DOCTYPE html>
-<html lang="en">
-<body>
+# 👨‍💻 Business Presentation for **Coding Hub**
 
-<!-- iREADME.md -->
-<div style="text-align: center; padding: 100px 20px; background-color: rgba(0, 0, 0, 0.7); margin: 0 auto; color: white;">
+Welcome to **Coding Hub**, your trusted partner in innovative technology solutions.  
+📍 Located in **Siaya Town**, Maria House, next to Siaya Bus Park, we empower businesses and individuals with cutting-edge IT services tailored to their specific needs.
 
-<h1 style="font-size: 3em; margin-bottom: 20px;"> <h1>Business Presentation for Coding Hub</h1>
-
-Introduction
-
-Welcome to Coding Hub, your trusted partner in innovative technology solutions. Located in Siaya Town, Maria House, next to Siaya Bus Park, we empower businesses and individuals with cutting-edge IT services tailored to their specific needs. Our focus is on delivering excellence, innovation, and customer satisfaction in every project.
-
+Our focus: **Excellence**, **Innovation**, and **Customer Satisfaction** in every project.
 
 ---
 
-Our Services
+## 🚀 Our Services
 
-1. Software Development
+### 1. **Software Development**
+- Custom software solutions for businesses and individuals
+- Mobile and desktop applications tailored to your needs
+- Enterprise Resource Planning (ERP) systems
 
-Custom software solutions for businesses and individuals.
+### 2. **Website Development**
+- Professional websites for personal, business, and e-commerce
+- Responsive, user-friendly, and SEO-optimized designs
 
-Mobile and desktop applications tailored to your needs.
+### 3. **WiFi Installation**
+- Reliable WiFi setup for homes, offices, and institutions
+- Network troubleshooting and long-range connectivity
 
-Enterprise resource planning (ERP) systems.
+### 4. **CCTV Installation**
+- HD surveillance systems
+- Indoor & outdoor camera setups
+- Remote access and monitoring
 
+### 5. **Branding**
+- Logo design & corporate identity
+- Digital marketing & social media management
 
+### 6. **IT Consultancy and Support**
+- System evaluations, cloud solutions, and troubleshooting
+- Data recovery & hardware/software support
 
-2. Website Development
+### 7. **Hardware and Software Sales**
+- Supplying top-quality IT equipment and licensed software
 
-Professional websites for personal, business, and e-commerce purposes.
-
-Responsive, user-friendly designs optimized for all devices.
-
-Search Engine Optimization (SEO) to improve visibility.
-
-
-
-3. WiFi Installation
-
-Reliable and secure WiFi network setup for homes, offices, and institutions.
-
-Network troubleshooting and optimization.
-
-Long-range and multi-device connectivity solutions.
-
-
-
-4. CCTV Installation
-
-High-definition surveillance systems for enhanced security.
-
-Installation of indoor and outdoor cameras.
-
-Remote access and monitoring solutions.
-
-
-
-5. Branding
-
-Logo design, corporate identity creation, and promotional materials.
-
-Digital marketing strategies to enhance your online presence.
-
-Social media management and content creation.
-
-
-
-6. IT Consultancy and Support
-
-Expert advice on IT systems, hardware, and software.
-
-Troubleshooting and maintenance services.
-
-Cloud solutions and data recovery services.
-
-
-
-7. Hardware and Software Sales
-
-Supplying top-quality IT equipment and accessories.
-
-Licensed software solutions for businesses and individuals.
-
-
-
-8. Training and Development
-
-IT training sessions for teams and individuals.
-
-Specialized coding and programming workshops.
-
-Cybersecurity awareness and training.
-
-
-
-
+### 8. **Training and Development**
+- Coding workshops, team training & cybersecurity awareness
 
 ---
 
-Why Choose Us?
+## 🎯 Why Choose Us?
 
-Professional Expertise: Our team comprises highly skilled IT professionals with years of experience.
-
-Customer-Centric Approach: We prioritize your needs to deliver tailored solutions.
-
-Quality Assurance: We ensure top-notch quality in all our services and products.
-
-Affordable Pricing: Competitive rates without compromising on quality.
-
-Timely Delivery: Meeting deadlines is our priority.
-
-
+✅ **Professional Expertise** – Skilled and experienced IT team  
+✅ **Customer-Centric** – Your needs, our priority  
+✅ **Top Quality** – We deliver excellence  
+✅ **Affordable** – Best value for your money  
+✅ **Timely Delivery** – We respect deadlines  
 
 ---
 
-Contact Us
+## 📞 Contact Us
 
-Office Address: Siaya Town, Maria House, next to Siaya Bus Park
-Phone: +254703445756
-Email: manodhiambo@gmail.com
-Website:https://manodhiambo.github.io/CodingHub/
+- **📍 Address**: Siaya Town, Maria House, next to Siaya Bus Park  
+- **📞 Phone**: [+254703445756](tel:+254703445756)  
+- **✉️ Email**: [manodhiambo@gmail.com](mailto:manodhiambo@gmail.com)  
+- **🌐 Website**: [https://manodhiambo.github.io/CodingHub](https://manodhiambo.github.io/CodingHub)
 
-Coding Hub – Empowering You Through Technology. Let’s create, innovate, and secure your digital future together!
-</p>
+> *Coding Hub – Empowering You Through Technology.*  
+> *Let’s create, innovate, and secure your digital future together!*
 
-<p style="font-size: 1.2em; margin-bottom: 20px;">I specialize in a wide range of programming languages and technologies:</p>
+---
 
-<div style="margin: 20px 0;">
-<span style="background-color: #ff5733; padding: 10px; margin: 5px; border-radius: 5px; display: inline-block;">C</span>
-<span style="background-color: #ff5733; padding: 10px; margin: 5px; border-radius: 5px; display: inline-block;">C++</span>
-<span style="background-color: #ff5733; padding: 10px; margin: 5px; border-radius: 5px; display: inline-block;">Java</span>
-<span style="background-color: #ff5733; padding: 10px; margin: 5px; border-radius: 5px; display: inline-block;">Python</span>
-<span style="background-color: #ff5733; padding: 10px; margin: 5px; border-radius: 5px; display: inline-block;">HTML</span>
-<span style="background-color: #ff5733; padding: 10px; margin: 5px; border-radius: 5px; display: inline-block;">CSS</span>
-<span style="background-color: #ff5733; padding: 10px; margin: 5px; border-radius: 5px; display: inline-block;">JavaScript</span>
-<span style="background-color: #ff5733; padding: 10px; margin: 5px; border-radius: 5px; display: inline-block;">ReactJS</span>
-<span style="background-color: #ff5733; padding: 10px; margin: 5px; border-radius: 5px; display: inline-block;">MongoDB</span>
-<span style="background-color: #ff5733; padding: 10px; margin: 5px; border-radius: 5px; display: inline-block;">MySQL</span>
-</div>
+## 💻 Technologies I Use
 
-<p style="font-size: 1.2em;">Feel free to connect with me through the following platforms:</p>
-<div style="margin-top: 30px;">
-<a href="https://www.linkedin.com/in/manodhiambo/" target="_blank" style="color: #ffcc00; text-decoration: none; font-size: 1.2em; margin: 0 10px;">LinkedIn</a>
-<a href="https://t.co/QaSYpAYr8D.com/" target="_blank" style="color: #ffcc00; text-decoration: none; font-size: 1.2em; margin: 0 10px;">WordPress</a>
-<a href="mailto:manodhiambo@gmail.com" target="_blank" style="color: #ffcc00; text-decoration: none; font-size: 1.2em; margin: 0 10px;">Email</a>
-<a href="https://twitter.com/your-twitter-handle" target="_blank" style="color: #ffcc00; text-decoration: none; font-size: 1.2em; margin: 0 10px;">Twitter</a>
-</div>
+`C` `C++` `Java` `Python` `HTML` `CSS` `JavaScript` `ReactJS` `MongoDB` `MySQL`
 
-<div style="margin-top: 50px; font-size: 1em;">
-<p>Email me at: manodhiambo@gmail.com</p>
-</div>
-</div>
-</body>
-</html>
+---
+
+## 📂 My Top Projects
+
+> *(Add links to your actual repositories here)*
+
+- 🔹 [ElimuConnect – Education App (Flutter + Firebase)](https://github.com/manodhiambo/elimuconnect)
+- 🔹 [PhoneFinder – Android Phone Tracking App](https://github.com/manodhiambo/phonefinder)
+- 🔹 [Coding Hub Website](https://manodhiambo.github.io/CodingHub)
+- 🔹 [SACCO Management System](https://github.com/manodhiambo/sacco-system)
+- 🔹 [School Management Desktop App (JavaFX + MySQL)](https://github.com/manodhiambo/school-system)
+
+---
+
+## 🤳 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/manodhiambo)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/kevinodhiambo)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/kevinodhiambo/)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/c/joshmadakor)  
+[![Email](https://img.shields.io/badge/Email-manodhiambo@gmail.com-blue?logo=gmail)](mailto:manodhiambo@gmail.com)
+
+---
+
+## 🌐 Additional Links
+
+- [📖 WordPress Blog](https://t.co/QaSYpAYr8D.com/)
+- [📬 Email Me](mailto:manodhiambo@gmail.com)
+
+---
+
+> © 2025 Kevin Owino Odhiambo | [manodhiambo.github.io](https://manodhiambo.github.io)
