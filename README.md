@@ -86,7 +86,7 @@ Our focus: **Excellence**, **Innovation**, and **Customer Satisfaction** in ever
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/manodhiambo)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/kevinodhiambo)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/kevinodhiambo/)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/c/@kevinodhiambo7939)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@kevinodhiambo7939)  
 [![Email](https://img.shields.io/badge/Email-manodhiambo@gmail.com-blue?logo=gmail)](mailto:manodhiambo@gmail.com)
 
 ---
