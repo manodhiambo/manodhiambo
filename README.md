@@ -1,83 +1,52 @@
-# 👨‍💻 Business Presentation for **Coding Hub**
+# 👋🏾 Hi there, I'm Kevin Odhiambo
 
-Welcome to **Coding Hub**, your trusted partner in innovative technology solutions.  
-📍 Located in **Siaya Town**, Maria House, next to Siaya Bus Park, we empower businesses and individuals with cutting-edge IT services tailored to their specific needs.
-
-Our focus: **Excellence**, **Innovation**, and **Customer Satisfaction** in every project.
+### 🚀 Full-Stack Software Engineer | 💻 IT Consultant | 📊 Financial Analyst  
+Founder of **Coding Hub** | Based in **Siaya, Kenya**
 
 ---
 
-## 🚀 Our Services
-
-### 1. **Software Development**
-- Custom software solutions for businesses and individuals
-- Mobile and desktop applications tailored to your needs
-- Enterprise Resource Planning (ERP) systems
-
-### 2. **Website Development**
-- Professional websites for personal, business, and e-commerce
-- Responsive, user-friendly, and SEO-optimized designs
-
-### 3. **WiFi Installation**
-- Reliable WiFi setup for homes, offices, and institutions
-- Network troubleshooting and long-range connectivity
-
-### 4. **CCTV Installation**
-- HD surveillance systems
-- Indoor & outdoor camera setups
-- Remote access and monitoring
-
-### 5. **Branding**
-- Logo design & corporate identity
-- Digital marketing & social media management
-
-### 6. **IT Consultancy and Support**
-- System evaluations, cloud solutions, and troubleshooting
-- Data recovery & hardware/software support
-
-### 7. **Hardware and Software Sales**
-- Supplying top-quality IT equipment and licensed software
-
-### 8. **Training and Development**
-- Coding workshops, team training & cybersecurity awareness
+🔧 I'm a results-driven technologist passionate about solving real-world problems through innovative digital solutions. With **4+ years in software engineering**, **7+ years in sales**, and a strong foundation in **financial analysis**, I bring a unique blend of business strategy and tech expertise.
 
 ---
 
-## 🎯 Why Choose Us?
+## 🛠️ Tech Stack
 
-✅ **Professional Expertise** – Skilled and experienced IT team  
-✅ **Customer-Centric** – Your needs, our priority  
-✅ **Top Quality** – We deliver excellence  
-✅ **Affordable** – Best value for your money  
-✅ **Timely Delivery** – We respect deadlines  
-
----
-
-## 📞 Contact Us
-
-- **📍 Address**: Siaya Town, Maria House, next to Siaya Bus Park  
-- **📞 Phone**: [+254703445756](tel:+254703445756)  
-- **✉️ Email**: [manodhiambo@gmail.com](mailto:manodhiambo@gmail.com)  
-- **🌐 Website**: [https://manodhiambo.github.io/CodingHub](https://manodhiambo.github.io/CodingHub)
-
-> *Coding Hub – Empowering You Through Technology.*  
-> *Let’s create, innovate, and secure your digital future together!*
+- **Languages**: `C`, `C++`, `Java`, `Python`, `JavaScript`, `HTML`, `CSS`
+- **Frameworks & Libraries**: `React.js`, `Vue.js`, `Node.js`, `Express`, `Django`
+- **Databases**: `MongoDB`, `MySQL`
+- **Tools**: `Git`, `GitHub`, `Postman`, `VS Code`, `Linux`, `Figma`
+- **Other Skills**: Bash scripting, Networking (WiFi/CCTV), Business automation, Strategic IT consulting
 
 ---
 
-## 💻 Technologies I Use
+## 💼 Projects I'm Proud Of
 
-`C` `C++` `Java` `Python` `HTML` `CSS` `JavaScript` `ReactJS` `MongoDB` `MySQL`
+Here are just a few of the impactful solutions I’ve built or contributed to:
+
+- 🎓 [School Management System](https://github.com/manodhiambo/school_management_system) – Simplifies academic/admin operations  
+- 🌍 [Elimu Connect](https://github.com/manodhiambo/elimu_connect) – Enhancing e-learning access  
+- 👗 [Ready To Wear](https://github.com/manodhiambo/ready_to_wear) – E-commerce fashion platform  
+- 🏝️ [Kingston10](https://github.com/manodhiambo/Kingston) – Community-focused digital marketplace  
+- 🏠 [Airbnb Clone Project](https://github.com/manodhiambo/airbnb-clone-project) – Full-stack booking platform  
+- ⛪ [Calvary Jesus Church](https://github.com/manodhiambo/Calvary_Jesus_Church) – Church website with events & resources  
+- 👩🏾‍🎓 [UrangaCBOGirls](https://github.com/manodhiambo/UrangaCBOGirls) – Empowering girls through technology  
 
 ---
 
-## 📂 My Top Projects
+## 📌 Current Focus
 
-- 🔹 [ElimuConnect – Education App (Flutter + Firebase)](https://github.com/manodhiambo/elimuconnect)
-- 🔹 [PhoneFinder – Android Phone Tracking App](https://github.com/manodhiambo/findme)
-- 🔹 [L_MobileView_Mini](https://github.com/manodhiambo/l_mobilesales_mini)
-- 🔹 [L-salesView-Mini](https://github.com/manodhiambo/l-salesview-mini)
-- 🔹 [School Management Desktop App (JavaFX + MySQL)](https://github.com/manodhiambo/school-system)
+🔨 Building **FindMe**, a cross-platform phone-tracking app  
+🔒 Enhancing **PhoneFinder**, an Android security app  
+🧠 Expanding into **AI-integrated learning tools**
+
+---
+
+## 🧠 I’m Currently Learning
+
+- AI-Powered App Development  
+- System Design and Architecture  
+- Advanced Bash & Linux Automation  
+- Cloud Infrastructure (AWS, Firebase)
 
 ---
 
@@ -93,9 +62,13 @@ Our focus: **Excellence**, **Innovation**, and **Customer Satisfaction** in ever
 
 ## 🌐 Additional Links
 
-- [📖 WordPress Blog](https://t.co/QaSYpAYr8D.com/)
-- [📬 Email Me](mailto:manodhiambo@gmail.com)
+- 📞 **Phone**: [+254703445756](tel:+254703445756)  
+- ✉️ **Email**: [manodhiambo@gmail.com](mailto:manodhiambo@gmail.com)  
+- 🌐 **Website**: [https://manodhiambo.github.io/CodingHub](https://manodhiambo.github.io/CodingHub)  
+- 📖 **WordPress Blog**: [https://t.co/QaSYpAYr8D.com/](https://t.co/QaSYpAYr8D.com/)  
 
 ---
 
-> © 2025 Kevin Owino Odhiambo | [manodhiambo.github.io](https://manodhiambo.github.io)
+> “Code is not just about syntax, it's about solving problems, telling stories, and building futures.”  
+― *Kevin Odhiambo*
+
