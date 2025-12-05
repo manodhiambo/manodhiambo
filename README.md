@@ -23,13 +23,13 @@ Founder of **Coding Hub** | Based in **Siaya, Kenya**
 
 Here are just a few of the impactful solutions I’ve built or contributed to:
 
-- 🎓 [School Management System](https://github.com/manodhiambo/school_management_system) – Simplifies academic/admin operations  
-- 🌍 [Elimu Connect](https://github.com/manodhiambo/elimu_connect) – Enhancing e-learning access  
+- 🎓 [School Management System](https://www.skulmanager.org) – Simplifies academic/admin operations  
+- 🌍 [Elimu Connect](https://www.elimuconnect.org) – Enhancing e-learning access  
 - 👗 [Ready To Wear](https://github.com/manodhiambo/ready_to_wear) – E-commerce fashion platform  
 - 🏝️ [Kingston10](https://github.com/manodhiambo/Kingston) – Community-focused digital marketplace  
 - 🏠 [Airbnb Clone Project](https://github.com/manodhiambo/airbnb-clone-project) – Full-stack booking platform  
-- ⛪ [Calvary Jesus Church](https://github.com/manodhiambo/Calvary_Jesus_Church) – Church website with events & resources  
-- 👩🏾‍🎓 [UrangaCBOGirls](https://github.com/manodhiambo/UrangaCBOGirls) – Empowering girls through technology  
+- ⛪ [Calvary Jesus Church](https://www.cjc.org) – Church website with events & resources  
+- 👩🏾‍🎓 [Logos Platform](https://www.logos-grace.org) – Uniting Christians ✝️ 
 
 ---
 
