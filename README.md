@@ -28,7 +28,7 @@ Here are just a few of the impactful solutions I’ve built or contributed to:
 - 👗 [Ready To Wear](https://github.com/manodhiambo/ready_to_wear) – E-commerce fashion platform  
 - 🏝️ [Kingston10](https://github.com/manodhiambo/Kingston) – Community-focused digital marketplace  
 - 🏠 [Airbnb Clone Project](https://github.com/manodhiambo/airbnb-clone-project) – Full-stack booking platform  
-- ⛪ [Calvary Jesus Church](https://www.cjc.org) – Church website with events & resources  
+- ⛪ [Calvary Jesus Church](https://www.cjck.org) – Church website with events & resources  
 - 👩🏾‍🎓 [Logos Platform](https://www.logos-grace.org) – Uniting Christians ✝️ 
 
 ---
