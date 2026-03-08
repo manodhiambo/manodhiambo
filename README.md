@@ -25,8 +25,8 @@ Here are just a few of the impactful solutions I’ve built or contributed to:
 
 - 🎓 [School Management System](https://www.skulmanager.org) – Simplifies academic/admin operations  
 - 🌍 [Elimu Connect](https://www.elimuconnect.org) – Enhancing e-learning access  
-- 👗 [Ready To Wear](https://github.com/manodhiambo/ready_to_wear) – E-commerce fashion platform  
-- 🏝️ [Kingston10](https://github.com/manodhiambo/Kingston) – Community-focused digital marketplace  
+- 👗 [Ready To Wear](htt) – E-commerce fashion platform  
+- 🏝️ [Kingston10]() – Community-focused digital marketplace  
 - 🏠 [Airbnb Clone Project](https://github.com/manodhiambo/airbnb-clone-project) – Full-stack booking platform  
 - ⛪ [Calvary Jesus Church](https://www.cjck.org) – Church website with events & resources  
 - 👩🏾‍🎓 [Logos Platform](https://www.logos-grace.org) – Uniting Christians ✝️ 
