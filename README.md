@@ -1,7 +1,7 @@
 # 👋🏾 Hi there, I'm Kevin Odhiambo
 
 ### 🚀 Full-Stack Software Engineer | 💻 IT Consultant | 📊 Financial Analyst  
-Founder of **Coding Hub** | Based in **Siaya, Kenya**
+Based in **Siaya, Kenya**
 
 ---
 
